@@ -73,7 +73,7 @@ form {
 }
 
 #number, #sides, #plus {
-  width: 40px;
+  width: 30px;
 }
 
 #submit, button {
@@ -144,7 +144,6 @@ footer #legal {
   #submit, button {
     height: 44px;
   }
-
 
 }
 
