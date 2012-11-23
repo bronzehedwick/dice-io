@@ -52,10 +52,6 @@ ul li:nth-child(even) {
 #main {
 }
 
-#sidebar {
-  width: 20%;
-}
-
 #output, form, #sidebar {
   background: #fff;
   padding: 20px;
