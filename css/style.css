@@ -19,6 +19,16 @@ header {
   text-shadow: 2px 2px 3px #000;
 }
 
+header img, header h1 {
+  display: inline;
+}
+
+header img {
+  position: relative;
+  top: 10px;
+  padding-right: 10px;
+}
+
 a:link, a:visited {
   color: rgb(57,181,57);
   text-decoration: none;
@@ -119,6 +129,10 @@ footer #legal {
   font-size: 0.75em;
 }
 
+#html5-badge {
+  float: right;
+}
+
 .clearfix {
   clear: both;
 }
@@ -139,6 +153,10 @@ footer #legal {
 
   #submit, button {
     height: 44px;
+  }
+
+  #html5-badge {
+    float: none;
   }
 
 }
